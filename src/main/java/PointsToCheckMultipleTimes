@@ -1,0 +1,8 @@
+1. Lexicographically order -> dictionary order
+2. inheritance composition aggregation association in java (is a and has a relationship).
+3. Inorder -> left, root, right (gives sorted order in bst)
+4. preorder -> root, left, right
+5. Postorder -> left, right, root
+6. Tree construction from traversals -> (inorder + preorder) || (inorder + postorder).
+7. drop vs truncate vs delete
+8. http vs https

@@ -1,0 +1,14 @@
+select (count(city) - count(distinct city)) from station;
+
+SELECT CITY,LENGTH(CITY)  FROM STATION WHERE LENGTH(CITY)=(SELECT MIN(LENGTH(CITY)) FROM STATION)  ORDER BY CITY ASC LIMIT 1;
+SELECT CITY ,LENGTH(CITY) FROM STATION WHERE LENGTH(CITY)=(SELECT MAX(LENGTH(CITY)) FROM STATION)  ORDER BY CITY ASC LIMIT 1;
+--// above two for one solution
+select distinct city from station where city like 'a%' or city like 'e%' or city like 'i%' or city like 'o%' or city like 'u%';
+
+SELECT DISTINCT city FROM   station WHERE  city RLIKE '^[aeiouAEIOU].*[aeiouAEIOU]$';
+
+select distinct city from station where SUBSTRING(city,1,1) not in ('A','E','I','O','U'); --from starting
+select distinct city from station where SUBSTRING(city,-1,1) not in ('A','E','I','O','U'); --from ending
+select distinct city from station where SUBSTRING(city,1,1) not in ('A','E','I','O','U') or SUBSTRING(city,-1,1) not in ('A','E','I','O','U');
+Select NAME FROM Students WHERE Marks > 75 ORDER BY RIGHT(Name,3), ID;
+SELECT CEIL(AVG(Salary - CAST(REPLACE(CAST(Salary AS CHAR), '0', '') AS DECIMAL))) FROM Employees;

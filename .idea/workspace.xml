@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/BinarySearchTree/Ancestor.java" line="11" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4885cd28-6e9e-4880-a48a-c5585b382ebd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filename.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearchTree/Ancestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearchTree/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearchTree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearchTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Builder/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Factory/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Factory/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Factory/FactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Factory/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Factory/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Prototype/Employees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Prototype/Prototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/BillPughSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/EagerInitializedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/LazyInitializedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/ReflectionTestSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/SerializedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/SingletonSerializedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/StaticBlockSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/ThreadSafeSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/ThreadSafeSynchronizedBlockSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DoubleLinkedList/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DoubleLinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Heap/MaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Heap/MaxProfitBySellingAtMostMProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Heap/MaxProfitBySellingTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Heap/MinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaFeatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/KMPPatternMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Matrix/NoOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Matrix/NoOfWaysToReachTopLeftToBottomRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Matrix/RottingOranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PointsToCheckMultipleTimes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RandomProblems/MaxProfitByBuyAndSell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RandomProblems/StringRotationMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Searching/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SingleLinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SingleLinkedList/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/CountSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Trie/CamelCaseNotationDictonary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Trie/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Trie/LongestPrefixMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Trie/PhoneDirectorySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Trie/ShortestUniquePrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Trie/TrieNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Trie/TrieOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/queries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BinarySearchTree/Ancestor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BinarySearchTree/BinarySearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BinarySearchTree/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BinarySearchTree/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Builder/Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Builder/Computer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Builder/Computer$ComputerBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Builder/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Factory/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Factory/Factory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Factory/FactoryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Factory/PC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Factory/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Prototype/Employees.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Prototype/Prototype.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/BillPughSingleton$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/BillPughSingleton$SingletonHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/BillPughSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/EagerInitializedSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/LazyInitializedSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/ReflectionTestSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/SerializedSingleton$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/SerializedSingleton$SingletonHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/SerializedSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/SingletonSerializedTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/StaticBlockSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/ThreadSafeSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/ThreadSafeSynchronizedBlockSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DoubleLinkedList/DoubleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DoubleLinkedList/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Heap/MaxHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Heap/MaxProfitBySellingAtMostMProducts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Heap/MaxProfitBySellingTickets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Heap/MinHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JavaFeatures.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/KMPPatternMatching.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/datastructures.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Matrix/NoOfIslands.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Matrix/NoOfWaysToReachTopLeftToBottomRight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Matrix/RottingOranges$Index.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Matrix/RottingOranges.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/RandomProblems/MaxProfitByBuyAndSell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/RandomProblems/StringRotationMatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Searching/LinearSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SingleLinkedList/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SingleLinkedList/SingleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Sorting/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Sorting/CountSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Sorting/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Sorting/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Sorting/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Sorting/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Sorting/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Sorting/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Trie/CamelCaseNotationDictonary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Trie/LongestCommonPrefix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Trie/LongestPrefixMatching.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Trie/PhoneDirectorySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Trie/ShortestUniquePrefix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Trie/TrieNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Trie/TrieOperations.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="datastructures" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Heap/MaxProfitBySellingTickets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BinarySearchTree/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BinarySearchTree/BinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5790">
+              <caret line="416" column="31" lean-forward="true" selection-start-line="416" selection-start-column="10" selection-end-line="416" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Trie/TrieNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Trie/TrieOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Trie/LongestPrefixMatching.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="30" column="62" lean-forward="true" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Trie/CamelCaseNotationDictonary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Trie/ShortestUniquePrefix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Trie/LongestCommonPrefix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="40" column="75" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Trie/PhoneDirectorySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bottomView(</find>
+      <find>delete</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/RandomProblems/StringRotationMatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Matrix/NoOfWaysToReachTopLeftToBottomRight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PointsToCheckMultipleTimes" />
+        <option value="$PROJECT_DIR$/src/main/java/queries" />
+        <option value="$PROJECT_DIR$/src/main/java/Matrix/NoOfIslands.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Matrix/RottingOranges.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton/StaticBlockSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton/LazyInitializedSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton/ThreadSafeSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton/ThreadSafeSynchronizedBlockSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton/BillPughSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton/ReflectionTestSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton/SingletonSerializedTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton/SerializedSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton/EagerInitializedSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorting/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorting/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorting/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorting/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorting/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorting/CountSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorting/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DoubleLinkedList/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Prototype/Employees.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Prototype/Prototype.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Factory/Computer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Factory/PC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Factory/Server.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Factory/Factory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Factory/FactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Builder/Builder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Builder/Computer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Builder/Builder/Builder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Builder/Computer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BinarySearchTree/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BinarySearchTree/Ancestor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BinarySearchTree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BinarySearchTree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Heap/Heap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Heap/MaxProfitBySellingTickets.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Heap/MaxHeap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Heap/MinHeap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Heap/MaxProfitBySellingAtMostMProducts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Trie/TrieOperations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Trie/LongestPrefixMatching.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Trie/LongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Trie/CamelCaseNotationDictonary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Trie/TrieNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Trie/ShortestUniquePrefix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Trie/PhoneDirectorySearch.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="71" />
+    <option name="y" value="34" />
+    <option name="width" value="1305" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="datastructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mydeziner" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PhoneDirectorySearch">
+    <configuration name="CamelCaseNotationDictonary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trie.CamelCaseNotationDictonary" />
+      <module name="datastructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trie.LongestCommonPrefix" />
+      <module name="datastructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestPrefixMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trie.LongestPrefixMatching" />
+      <module name="datastructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneDirectorySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trie.PhoneDirectorySearch" />
+      <module name="datastructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShortestUniquePrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trie.ShortestUniquePrefix" />
+      <module name="datastructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PhoneDirectorySearch" />
+        <item itemvalue="Application.ShortestUniquePrefix" />
+        <item itemvalue="Application.CamelCaseNotationDictonary" />
+        <item itemvalue="Application.LongestCommonPrefix" />
+        <item itemvalue="Application.LongestPrefixMatching" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4885cd28-6e9e-4880-a48a-c5585b382ebd" name="Default Changelist" comment="" />
+      <created>1588929857539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588929857539</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="61" y="-4" width="1305" height="772" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498452" visible="true" weight="0.27720413" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.501548" side_tool="true" weight="0.27243844" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32972136" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960285" weight="0.37151703" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50039715" side_tool="true" weight="0.36842105" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32817337" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27243844" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32972136" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36842105" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32817337" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Heap/MaxHeap.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Trie/ShortestUniquePrefix.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Trie/PhoneDirectorySearch.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>prefix.substring(0, i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>prefix.charAt(i - 1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>currentNode.childres[charIndex]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>word.charAt(level)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>heap.get(rightIndex)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>heap.get(leftIndex)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>heap</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>MaxHeap</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>heap.get(parentIndex)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/LazyInitializedSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/ThreadSafeSynchronizedBlockSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/BillPughSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#450#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/ReflectionTestSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/SerializedSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/EagerInitializedSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#0#1285#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Searching/LinearSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/StaticBlockSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#934#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/SingletonSerializedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RandomProblems/StringRotationMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList/SingleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Matrix/NoOfIslands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Matrix/NoOfWaysToReachTopLeftToBottomRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorting/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorting/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorting/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorting/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorting/CountSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorting/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="52" column="41" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="52" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorting/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DoubleLinkedList/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DoubleLinkedList/DoubleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaFeatures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorting/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="45" column="41" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="45" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PointsToCheckMultipleTimes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Factory/FactoryTest" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Builder/Builder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Builder/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Factory/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Factory/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Factory/FactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Factory/PC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Factory/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Prototype/Employees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Prototype/Prototype.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BinarySearchTree/Ancestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="137" column="19" selection-start-line="137" selection-start-column="19" selection-end-line="137" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BinarySearchTree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="79" column="42" selection-start-line="79" selection-start-column="42" selection-end-line="79" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Heap/MaxHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="43" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Heap/MinHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Heap/MaxProfitBySellingAtMostMProducts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Heap/MaxProfitBySellingTickets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BinarySearchTree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BinarySearchTree/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5790">
+          <caret line="416" column="31" lean-forward="true" selection-start-line="416" selection-start-column="10" selection-end-line="416" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Trie/TrieOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Trie/CamelCaseNotationDictonary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Trie/ShortestUniquePrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Trie/LongestPrefixMatching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="30" column="62" lean-forward="true" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Trie/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="40" column="75" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Trie/TrieNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Trie/PhoneDirectorySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>datastructures</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
