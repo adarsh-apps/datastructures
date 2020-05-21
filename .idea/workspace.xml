@@ -5,130 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4885cd28-6e9e-4880-a48a-c5585b382ebd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filename.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearchTree/Ancestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearchTree/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearchTree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearchTree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Builder/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Builder/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Factory/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Factory/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Factory/FactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Factory/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Factory/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Prototype/Employees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Prototype/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/BillPughSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/EagerInitializedSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/LazyInitializedSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/ReflectionTestSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/SerializedSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/SingletonSerializedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/StaticBlockSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/ThreadSafeSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Creational/Singleton/ThreadSafeSynchronizedBlockSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DoubleLinkedList/DoubleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DoubleLinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Heap/MaxHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Heap/MaxProfitBySellingAtMostMProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Heap/MaxProfitBySellingTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Heap/MinHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaFeatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/KMPPatternMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Matrix/NoOfIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Matrix/NoOfWaysToReachTopLeftToBottomRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Matrix/RottingOranges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PointsToCheckMultipleTimes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RandomProblems/MaxProfitByBuyAndSell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RandomProblems/StringRotationMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Searching/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingleLinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingleLinkedList/SingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/CountSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Trie/CamelCaseNotationDictonary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Trie/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Trie/LongestPrefixMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Trie/PhoneDirectorySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Trie/ShortestUniquePrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Trie/TrieNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Trie/TrieOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/queries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BinarySearchTree/Ancestor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BinarySearchTree/BinarySearchTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BinarySearchTree/BinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BinarySearchTree/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Builder/Builder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Builder/Computer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Builder/Computer$ComputerBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Builder/Computer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Factory/Computer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Factory/Factory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Factory/FactoryTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Factory/PC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Factory/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Prototype/Employees.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Prototype/Prototype.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/BillPughSingleton$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/BillPughSingleton$SingletonHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/BillPughSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/EagerInitializedSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/LazyInitializedSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/ReflectionTestSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/SerializedSingleton$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/SerializedSingleton$SingletonHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/SerializedSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/SingletonSerializedTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/StaticBlockSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/ThreadSafeSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DesignPatterns/Creational/Singleton/ThreadSafeSynchronizedBlockSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DoubleLinkedList/DoubleLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DoubleLinkedList/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Heap/MaxHeap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Heap/MaxProfitBySellingAtMostMProducts.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Heap/MaxProfitBySellingTickets.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Heap/MinHeap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaFeatures.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/KMPPatternMatching.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/datastructures.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Matrix/NoOfIslands.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Matrix/NoOfWaysToReachTopLeftToBottomRight.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Matrix/RottingOranges$Index.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Matrix/RottingOranges.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/RandomProblems/MaxProfitByBuyAndSell.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/RandomProblems/StringRotationMatch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Searching/LinearSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SingleLinkedList/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SingleLinkedList/SingleLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Sorting/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Sorting/CountSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Sorting/HeapSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Sorting/InsertionSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Sorting/MergeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Sorting/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Sorting/SelectionSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Sorting/ShellSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Trie/CamelCaseNotationDictonary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Trie/LongestCommonPrefix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Trie/LongestPrefixMatching.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Trie/PhoneDirectorySearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Trie/ShortestUniquePrefix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Trie/TrieNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Trie/TrieOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Trie/PhoneDirectorySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Trie/PhoneDirectorySearch.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -236,8 +114,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Trie/PhoneDirectorySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="275">
+              <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -456,13 +334,20 @@
       <option name="presentableId" value="Default" />
       <updated>1588929857539</updated>
     </task>
+    <task id="LOCAL-00001" summary="data structures">
+      <created>1590067282396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590067282397</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="61" y="-4" width="1305" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498452" visible="true" weight="0.27720413" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498452" visible="true" weight="0.27720413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -476,7 +361,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50039715" side_tool="true" weight="0.36842105" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32817337" />
@@ -517,6 +402,10 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="data structures" />
+    <option name="LAST_COMMIT_MESSAGE" value="data structures" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -979,8 +868,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Trie/PhoneDirectorySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="275">
+          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
         </state>
       </provider>
     </entry>
